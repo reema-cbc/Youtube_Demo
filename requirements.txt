@@ -34,3 +34,6 @@ typing-extensions==4.13.2
 urllib3==2.2.3
 websockets==13.1
 yt-dlp==2024.10.22
+setuptools>=65.0
+wheel
+build
