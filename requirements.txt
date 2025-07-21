@@ -6,7 +6,7 @@ certifi==2025.7.14
 charset-normalizer==3.4.2
 colorama==0.4.6
 coloredlogs==15.0.1
-ctranslate2==4.5.0
+ctranslate2==4.6.0
 faster-whisper
 ffmpeg-python==0.2.0
 filelock==3.16.1
