@@ -1,7 +1,8 @@
 ffmpeg
-libgl1
-libglib2.0-0
-libsm6
-libxext6
-libxrender-dev
-onnxruntime==1.16.3
+libavformat-dev
+libavcodec-dev
+libavdevice-dev
+libavutil-dev
+libavfilter-dev
+libswscale-dev
+libswresample-dev
