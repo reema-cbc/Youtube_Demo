@@ -44,9 +44,15 @@ def transcribe_video(video_path):
 
 # Step 3: Run it all
 if __name__ == "__main__":
-    url = input(" Enter YouTube URL: ")
+    url = "https://www.youtube.com/watch?v=DWRDNX5Mwlo"
     video_path = download_video(url)
     print(f" Video downloaded: {video_path}")
     transcribe_video(video_path)
+    
+    
+    
 
-
+# git add youtube_download.py
+# git commit -m "Updated input URL in youtube_download.py"
+# git push origin reema
+ 
